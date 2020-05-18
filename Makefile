@@ -14,8 +14,11 @@ lua = --lua-filter=$(filters)/pagebreak.lua \
       --lua-filter=$(filters)/scholarly-metadata.lua \
       --lua-filter=$(filters)/author-info-blocks.lua
       
-arg = -F pandoc-crossref -F pandoc-citeproc 
-com = cat $(upp).md $(main).md > $(tem); pandoc $(tem) $(arg) --csl $(csl) --bibliography $(bib)
+arg = -F pandoc-crossref -F pandoc-citeproc
+com1 = cat $(upp).md $(main).md > $(tem)
+com2 = python $(filters)/pandoc-include.py --infile $(tem) --outfile $(tem)
+com3 = pandoc $(tem) $(arg) --csl $(csl) --bibliography $(bib) 
+com = $(com1); $(com2); $(com3)
 
 all:	pdf docx
 

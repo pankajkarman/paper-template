@@ -1,4 +1,4 @@
-|Stations|Latitude|Longitude|Altitude|
+|Header1|Header2|Header3|Header4|
 |--------|-------:|--------:|-------:|
 |Something   |  65|      .25|    2242|
 |Someting    |  98|      .80|    2858|

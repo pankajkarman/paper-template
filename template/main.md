@@ -7,7 +7,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Introduction
 
-*Lorem ipsum* dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu ultrices vitae auctor eu augue. Aliquet risus feugiat in ante metus. Massa id neque aliquam vestibulum morbi. Consequat mauris nunc congue nisi vitae suscipit tellus mauris a. Egestas sed sed risus pretium quam vulputate dignissim suspendisse. Vitae semper quis lectus nulla at volutpat diam ut. Donec ultrices tincidunt arcu non sodales neque. Turpis nunc eget lorem dolor sed viverra ipsum nunc aliquet. Pharetra convallis posuere morbi leo urna molestie at. At tempor commodo ullamcorper a lacus vestibulum. Sagittis vitae et leo duis. At varius vel pharetra vel turpis. At tellus at urna condimentum mattis. Tristique senectus et netus et.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu ultrices vitae auctor eu augue. Aliquet risus feugiat in ante metus. Massa id neque aliquam vestibulum morbi. Consequat mauris nunc congue nisi vitae suscipit tellus mauris a. Egestas sed sed risus pretium quam vulputate dignissim suspendisse. Vitae semper quis lectus nulla at volutpat diam ut. Donec ultrices tincidunt arcu non sodales neque. Turpis nunc eget lorem dolor sed viverra ipsum nunc aliquet. Pharetra convallis posuere morbi leo urna molestie at. At tempor commodo ullamcorper a lacus vestibulum. Sagittis vitae et leo duis. At varius vel pharetra vel turpis. At tellus at urna condimentum mattis. Tristique senectus et netus et.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu ultrices vitae auctor eu augue. Aliquet risus feugiat in ante metus. Massa id neque aliquam vestibulum morbi. Consequat mauris nunc congue nisi vitae suscipit tellus mauris a. Egestas sed sed risus pretium quam vulputate dignissim suspendisse. Vitae semper quis lectus nulla at volutpat diam ut. Donec ultrices tincidunt arcu non sodales neque. Turpis nunc eget lorem dolor sed viverra ipsum nunc aliquet. Pharetra convallis posuere morbi leo urna molestie at. At tempor commodo ullamcorper a lacus vestibulum. Sagittis vitae et leo duis. At varius vel pharetra vel turpis. At tellus at urna condimentum mattis. Tristique senectus et netus et.
 
 
@@ -17,19 +17,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Results and Discussion
 
-![Example image](figures/mariecurie.jpg){#fig:fig1 width=75%}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu ultrices vitae auctor eu augue. Aliquet risus feugiat in ante metus. Massa id neque aliquam vestibulum morbi. Consequat mauris nunc congue nisi vitae suscipit tellus mauris a. Egestas sed sed risus pretium quam vulputate dignissim suspendisse. Vitae semper quis lectus nulla at volutpat diam ut. Donec ultrices tincidunt arcu non sodales neque. Turpis nunc eget lorem dolor sed viverra ipsum nunc aliquet. Pharetra convallis posuere morbi leo urna molestie at. At tempor commodo ullamcorper a lacus vestibulum. Sagittis vitae et leo duis. At varius vel pharetra vel turpis. At tellus at urna condimentum mattis. Tristique senectus et netus et.
 
-As shown in @fig:fig1, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu ultrices vitae auctor eu augue. Aliquet risus feugiat in ante metus. Massa id neque aliquam vestibulum morbi. Consequat mauris nunc congue nisi vitae suscipit tellus mauris a. Egestas sed sed risus pretium quam vulputate dignissim suspendisse. Vitae semper quis lectus nulla at volutpat diam ut. Donec ultrices tincidunt arcu non sodales neque. Turpis nunc eget lorem dolor sed viverra ipsum nunc aliquet. Pharetra convallis posuere morbi leo urna molestie at. At tempor commodo ullamcorper a lacus vestibulum. Sagittis vitae et leo duis. At varius vel pharetra vel turpis. At tellus at urna condimentum mattis. Tristique senectus et netus et.
+Table: Example table
 
 !include tables/table.md
-
-: Example table {#tbl:tab1}
-
-As shown in @tbl:tab1, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu ultrices vitae auctor eu augue. Aliquet risus feugiat in ante metus. Massa id neque aliquam vestibulum morbi. Consequat mauris nunc congue nisi vitae suscipit tellus mauris a. Egestas sed sed risus pretium quam vulputate dignissim suspendisse. Vitae semper quis lectus nulla at volutpat diam ut. Donec ultrices tincidunt arcu non sodales neque. Turpis nunc eget lorem dolor sed viverra ipsum nunc aliquet. Pharetra convallis posuere morbi leo urna molestie at. At tempor commodo ullamcorper a lacus vestibulum. Sagittis vitae et leo duis. At varius vel pharetra vel turpis. At tellus at urna condimentum mattis. Tristique senectus et netus et.
-
-$$ E = mc^2 $$ {#eq:eq1}
-
-@eq:eq1 governs the evolution of something.
 
 ## Conclusions
 
