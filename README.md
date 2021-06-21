@@ -4,6 +4,7 @@ This repository is a template for writing papers using markdown. It can output b
 - [pandoc](https://pandoc.org/)
 - [pandoc-crossref](https://lierdakil.github.io/pandoc-crossref/) 
 - [pandoc-citeproc](https://github.com/jgm/pandoc-citeproc) 
+- [python-docx](https://github.com/python-openxml/python-docx) 
 
 # Installation:
 - conda install -c conda-forge pandoc
