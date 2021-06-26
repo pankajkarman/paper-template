@@ -12,21 +12,25 @@ def align_table(doc):
 
 def make_caption_bold(doc, tag="Figure"):
     for p in doc.paragraphs:
-        if tag in p.text:
+        st = re.search(tag+' \d:', p.text)
+        if st is not None:
+            #print(p.text)
             for run in p.runs:
                 if tag in run.text.split(" ")[0]:
                     texts = run.text.split(":")                    
                     new1 = p.add_run(texts[0] + ":", style=run.style.name)
                     new2 = p.add_run(texts[1:], style=run.style.name)
-                    
+
                     new1.font.bold = True
                     new1.italic = run.italic
-                    
+
                     new2.font.bold = False
-                    new2.italic = run.italic  
+                    new2.italic = run.italic
                     
-                    run.text = ""                  
-                    break
+                    run._r.addprevious(new1._r)
+                    run._r.addprevious(new2._r)
+                    run.text = ""  
+                    break 
     return doc
 
 parser = argparse.ArgumentParser(description='DOCX Post-processing.')
